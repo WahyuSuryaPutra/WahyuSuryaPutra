@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @WahyuSuryaPutra
 - 👀 I’m interested in Cyber Security, Software Developer, IOS Developer
 - 🌱 I’m currently learning Swift Languange, ReactJS and NodeJS
-- 💞️ I’m looking to collaborate on Google Developer and Apple Developer Academy
+- 💞️ I’m looking for Girlfriend
 - 📫 How to reach me? You can contact my gmail : iwayanwahyusuryaputra@gmail.com
 
 <!---
