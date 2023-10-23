@@ -1,1 +1,1 @@
-Sepuuhhh melepuhh, biji kalian melepuh
+Sepuuhhh melepuhh, biji kalian melepuh..
