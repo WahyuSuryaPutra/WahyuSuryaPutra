@@ -11,7 +11,7 @@
 
 - 👯 Certainly! Here's a refined version of your sentence for collaboration in a **Capture The Flag competition**
 
-- 🤝 I’m looking for help with **portofolio website**
+- 🤝 I am looking for help with a **portfolio website**, with the hope of receiving assistance that makes sense and is correct in its implementation.
 
 - 👨‍💻 All of my projects are available at [https://github.com/WahyuSuryaPutra](https://github.com/WahyuSuryaPutra)
 
