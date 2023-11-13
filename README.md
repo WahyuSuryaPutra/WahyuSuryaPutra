@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Machine Learning in Phytorch and IOS Developer with SWIFT**
 
-- 👯 Certainly! Here's a refined version of your sentence for collaboration in a **Capture The Flag competition**
+- 👯 I'm seeking collaborators for a **Capture The Flag** competition to combine our skills and strategize for success.
 
 - 🤝 I am looking for help with a **portfolio website**, with the hope of receiving assistance that makes sense and is correct in its implementation.
 
