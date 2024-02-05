@@ -10,7 +10,7 @@
 
 
 # About Me
-<img src="https://github-stats-alpha.vercel.app/api?username=WahyuSuryaPutra&cc=000&tc=fff&ic=fff&bc=000" alt="GitHub Stats" width="800" height="400">
+<img src="https://github-stats-alpha.vercel.app/api?username=WahyuSuryaPutra&cc=000&tc=fff&ic=fff&bc=000" alt="GitHub Stats" width="1000" height="400">
 
 
 ## GitHub Trophies
