@@ -14,7 +14,7 @@
 
 
 ## GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=WahyuSuryaPutra&theme=discord&no-frame=false&no-bg=true&margin-w=4)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=widyasa" alt="widyasa" /></a> </p>
 
 
 ### Spotify Playing 🎧
