@@ -15,9 +15,6 @@
 ## GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=WahyuSuryaPutra&theme=discord&no-frame=false&no-bg=true&margin-w=4)
 
-<h1>Some of my Projects! 🎨</h1>
-<Br>
-
 
 ### Spotify Playing 🎧
 
