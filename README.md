@@ -10,7 +10,8 @@
 
 
 # About Me
-![](https://github-stats-alpha.vercel.app/api?username=WahyuSuryaPutra&cc=000&tc=fff&ic=fff&bc=000)
+<img src="https://github-stats-alpha.vercel.app/api?username=WahyuSuryaPutra&cc=000&tc=fff&ic=fff&bc=000" alt="GitHub Stats" width="800" height="400">
+
 
 ## GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=WahyuSuryaPutra&theme=discord&no-frame=false&no-bg=true&margin-w=4)
