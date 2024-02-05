@@ -10,7 +10,7 @@
 
 
 # About Me
-![](https://github-stats-alpha.vercel.app/api?username=Rivalakmalll&cc=000&tc=fff&ic=fff&bc=000)
+![](https://github-stats-alpha.vercel.app/api?username=WahyuSuryaPutra&cc=000&tc=fff&ic=fff&bc=000)
 
 ## GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=WahyuSuryaPutra&theme=discord&no-frame=false&no-bg=true&margin-w=4)
